@@ -1,0 +1,9 @@
+{
+  "login": {
+    "user": "Léu",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmMDYwYTczZWEyN2FkMDAxMjQxMjNjNyIsImlhdCI6MTU5NzM1MDYzMCwiZXhwIjoxNTk3NDM3MDMwfQ.I_bsDv6-tA51DwjTSoBSyyfoKVAyLStvuYXdupDNVCY"
+  },
+  "forgot-password": {
+    "message": "E-mail enviado com sucesso"
+  }
+}
